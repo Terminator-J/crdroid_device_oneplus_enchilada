@@ -26,7 +26,7 @@
 
     <!-- Margin on the left side of the carrier text on Keyguard -->
     <!-- <dimen name="keyguard_carrier_text_margin">19.512dp</dimen> -->
-    <dimen name="keyguard_carrier_text_margin">25.0px</dimen>
+    <dimen name="keyguard_carrier_text_margin">30.0px</dimen>
 
     <!-- How much into a DisplayCutout's bounds we can go, on each side -->
     <!-- <dimen name="display_cutout_margin_consumption">30.0px</dimen> -->
