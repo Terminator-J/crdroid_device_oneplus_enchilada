@@ -10,6 +10,14 @@
     <dimen name="status_bar_height_landscape">28.0dp</dimen>
 
     <!-- Default radius of the software rounded corners. -->
-    <dimen name="rounded_corner_radius">34.5dp</dimen>
+    <dimen name="rounded_corner_radius">8.0dp</dimen>
+    <!-- <dimen name="rounded_corner_radius">34.5dp</dimen> -->
     <!-- <dimen name="rounded_corner_radius">88.4px</dimen> -->
+
+    <!-- Radius of the software rounded corners at the top of the display in its natural
+         orientation. If zero, the value of rounded_corner_radius is used. -->
+    <!-- <dimen name="rounded_corner_radius_top">26.5dp</dimen> -->
+    <!-- Radius of the software rounded corners at the bottom of the display in its natural
+         orientation. If zero, the value of rounded_corner_radius is used. -->
+    <!-- <dimen name="rounded_corner_radius_bottom">34.5dp</dimen> -->
 </resources>
