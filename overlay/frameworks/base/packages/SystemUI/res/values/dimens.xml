@@ -16,6 +16,9 @@
 */
 -->
 <resources>
+    <!-- Default device corner radius, used for assist UI -->
+    <dimen name="config_rounded_mask_size">97px</dimen>
+
     <!-- the padding on the start of the statusbar -->
     <dimen name="status_bar_padding_start">24.0px</dimen>
 
